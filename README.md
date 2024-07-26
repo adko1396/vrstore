@@ -1,19 +1,17 @@
+---
 
-----------------------------------------------------------[FA]----------------------------------------------------------
+## فیلم عملکرد پروژه
 
+شما می‌توانید فیلم عملکرد پروژه را از طریق لینک زیر مشاهده کنید:
 
-فیلم عملکرد پروژه :
-<br><br>
+[تماشای فیلم!](https://drive.google.com/file/d/1J8cZ5bNqXfKxgMRsujJBjwVAtDwwCr9e/view)
 
+---
 
+## Project Performance Video
 
-لینک ویدیو : <a href="https://drive.google.com/file/d/1J8cZ5bNqXfKxgMRsujJBjwVAtDwwCr9e/view">تماشای فیلم!</a>
+You can watch the project's performance video using the link below:
 
-----------------------------------------------------------[ENG]--------------------------------------------------------
+[Watch the Video!](https://drive.google.com/file/d/1J8cZ5bNqXfKxgMRsujJBjwVAtDwwCr9e/view)
 
-Project Performance Video :
-
-
-<br>
-
-Video link : <a href="https://drive.google.com/file/d/1J8cZ5bNqXfKxgMRsujJBjwVAtDwwCr9e/view">Watching movie!</a>
+---
